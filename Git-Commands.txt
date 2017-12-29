@@ -21,7 +21,6 @@ $ git log --oneline -2	-> recent 2 logs
 $ git log --since=12-28-2017;	->UK Date Format
 $ git log --until=12-28-2017;
 $ git log --author="soumya"
-
 $ git log --grep="change1"
 
 ----------------------
@@ -48,9 +47,14 @@ $ git branch -D bug123	: changes not yet merged so it will force delete
 
 -------------------------
 
+Git Rebase
+Git Tag
+Git Stash
 
-
-
+-------------------------
+		GIT REMOTE
+To set proxy	
+git config --global http.proxy "http://hjproxy.persistent.co.in:8080"
 
 
 
