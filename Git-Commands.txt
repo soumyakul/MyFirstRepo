@@ -29,6 +29,15 @@ $ git log --grep="change1"
 create .jar.class files put these file names in .gitignore file n the files
 will not be tracked
 
+----------------------
+
+git diff		->to check what change has been made in the file
+
+----------------------
+
+
+
+
 
 
 
