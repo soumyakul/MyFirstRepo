@@ -12,4 +12,25 @@ $ git status
 
 $ git commit -m "this is my first commit"
 
+$git commit -am "Change 2 in file 1"-> add and commit without staging area
+----------------------
+
+$ git log
+$ git log --oneline
+$ git log --oneline -2	-> recent 2 logs
+$ git log --since=12-28-2017;	->UK Date Format
+$ git log --until=12-28-2017;
+$ git log --author="soumya"
+
+$ git log --grep="change1"
+
+----------------------
+
+create .jar.class files put these file names in .gitignore file n the files
+will not be tracked
+
+
+
+
+
 
