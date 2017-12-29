@@ -31,10 +31,14 @@ will not be tracked
 
 ----------------------
 
-git diff		->to check what change has been made in the file
+$git diff		->to check what change has been made in the file
+$ git diff --staged
 
 ----------------------
 
+UNDOING
+-> reset	(dangerous one ) ( not recommended)
+-> revert	(recommended)
 
 
 
