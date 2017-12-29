@@ -40,6 +40,13 @@ UNDOING
 -> reset	(dangerous one ) ( not recommended)
 -> revert	(recommended)
 
+----------------------
+$ git branch bug123
+
+
+
+
+
 
 
 
