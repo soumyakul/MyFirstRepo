@@ -43,6 +43,13 @@ UNDOING
 ----------------------
 $ git branch bug123
 
+$ git branch -d bug123
+$ git branch -D bug123	: changes not yet merged so it will force delete
+
+-------------------------
+
+
+
 
 
 
