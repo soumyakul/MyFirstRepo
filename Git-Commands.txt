@@ -1,0 +1,15 @@
+$ git config --global user.name "Soumya Kulkarni"
+$ git config --global user.email soumya_kulkarni@persistent.co.in
+$ git config user.name
+$ git config user.email
+$ git config --list
+
+$ git init		--create repository only one will create others will copy this repository
+
+$ git add gitIntro.txt	--add files into the repository (staging area)
+
+$ git status
+
+$ git commit -m "this is my first commit"
+
+
